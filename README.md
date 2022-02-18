@@ -4,14 +4,15 @@ Deep Learning for Natural Lanaguage Processing slides, labs and assignments.
 
 ## Contents
 
-| Topic                                                     | Lab                                            | Assignment                                  |
-| --------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------- |
-| 1. Introduction to ML and NLP with TF                     | 1. Tensorflow, Warning up                      | 1. LR, SGD, Reg.                            |
-| 2. Multilayer Perceptron                                  | 2. MLP & Dropout                               |                                             |
-| 3. Embeddings and Recurrent Neural Networks               | 3. RNN based classifier                        | 2. Word embedings                           |
-| 4. Seq2seq, Neural Machine Translation and better RNNs    | 4. GRU based classifier                        | 3. LSTM based LM                            |
-| 5. Attention, Transformers and Natural Language Inference | 5. NLI with attention                          | 4. NLI with word-by-word bilinear attention |
-| 6. Pre-trained transformers, BERT, GPT                    | 6. Transformers for sentiment analysis and NLI |                                             |
+| Topic                                                              | Lab                                            | Assignment                                  |
+| ------------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------- |
+| 1. Introduction to ML and NLP with TF                              | 1. Tensorflow, Warning up                      | 1. LR, SGD, Reg.                            |
+| 2. Multilayer Perceptron                                           | 2. MLP & Dropout                               |                                             |
+| 3. Embeddings and Recurrent Neural Networks                        | 3. RNN based classifier                        | 2. Word embedings                           |
+| 4. Seq2seq, Neural Machine Translation and better RNNs             | 4. GRU based classifier                        | 3. LSTM based LM                            |
+| 5. Attention, Transformers and Natural Language Inference          | 5. NLI with attention                          | 4. NLI with word-by-word bilinear attention |
+| 6. Pre-trained transformers, BERT, GPT                             | 6. Transformers for sentiment analysis and NLI |                                             |
+| 7. Bridging the gap between natural languages and the visual world | 7. Image captioning                            |                                             |
 
 ## Evaluation
 
